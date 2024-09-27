@@ -1,0 +1,68 @@
+body{background-color:white;}
+h1 { 
+  color: white;
+}
+
+#title {
+  background-color: gold;
+  color: gold;
+}
+
+h2 {
+ color: gold;
+}
+.sub-section{
+  border-style: solid white
+  border: 2px solid white;
+  border-radius: 10px;
+  padding: 20px;
+  background-color: white;
+  margin: 20px;
+ box-shadow: 10px 5px 5px gray;
+ 
+}
+
+#section-1 {
+  border-style: groove;
+  border: 2px solid white;
+  border-radius: 12px;
+  padding: 5px;
+  background-color: white;
+
+}
+#section-2 {
+  border-style: groove;
+  border: 2px solid white;
+  border-radius: 12px;
+  padding: 5px;
+  background-color: white;
+  
+}
+
+#section-3 {
+   border-style: groove;
+  border: 2px solid white;
+  border-radius: 10px;
+  padding: 5px;
+  background-color: white;
+  
+}
+
+#section-4 {
+   border-style: groove;
+  border: 2px solid white;
+  border-radius: 10px;
+  padding: 5px;
+  background-color: white;
+  
+}
+div#section-1:hover { background-color: grey;h2{text-decoration: underline;}}
+div#section-2:hover { background-color: grey;h2{text-decoration: underline;}}
+div#section-3:hover { background-color: grey;h2{text-decoration: underline;}}
+div#section-4:hover { background-color: grey;h2{text-decoration: underline;}}
+
+footer{color:#FFFFFFF;
+text-align:center;
+background-color #0e3369;
+font-family: Arial
+;
